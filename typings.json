@@ -1,0 +1,6 @@
+{
+  "globalDependencies": {
+    "faker": "registry:dt/faker#3.1.0+20161119044246",
+    "jquery": "registry:dt/jquery#1.10.0+20170123093700"
+  }
+}
